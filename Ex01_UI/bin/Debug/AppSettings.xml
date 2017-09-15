@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<AppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AcssessToken>EAAD2CxOSWMIBAN5W1ZBuSQpA7RgREzSFWMUuMzlTsI9UEoSVmDkusvXv4O5db1nrpkWC5mPuYXhpmzrUC2FXYnVz1vIysJz77IwaryAoyOfsgxZAeZAThoPibH5NAutf2BKvhXCwN612gjELnjLQSgQ6fKNXZCGNgHQQh4rGZAgZDZD</AcssessToken>
+  <StartingLocation>
+    <X>535</X>
+    <Y>172</Y>
+  </StartingLocation>
+  <RememberMe>false</RememberMe>
+</AppSettings>

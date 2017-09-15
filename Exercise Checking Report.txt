@@ -1,0 +1,10 @@
+==========================Exercise Checking Report========================== 
+Exercise No........... :2 
+First Student Details.:305766594 - Ori Metz  
+Second Student Details: 305322851- Shahar Horn 
+Delivery Date.........: 10 - September - 2017 
+Delivered In Delay....: No 
+Delay Reason..........:
+Visual Studio Version.:2017
+Comments..............:
+=======================End Exercise Checking Report=========================

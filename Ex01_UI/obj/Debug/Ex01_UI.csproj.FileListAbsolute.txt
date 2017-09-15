@@ -1,0 +1,13 @@
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\bin\Debug\Ex01_UI.exe.config
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\bin\Debug\Ex01_UI.exe
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\bin\Debug\Ex01_UI.pdb
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\bin\Debug\Ex01_Logic.dll
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\bin\Debug\Facebook.dll
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\bin\Debug\Ex01_Logic.pdb
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\obj\Debug\Ex01_UI.csprojResolveAssemblyReference.cache
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\obj\Debug\Ex01_UI.MainForm.resources
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\obj\Debug\Ex01_UI.Properties.Resources.resources
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\obj\Debug\Ex01_UI.csproj.GenerateResource.Cache
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\obj\Debug\Ex01_UI.exe
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_UI\obj\Debug\Ex01_UI.pdb

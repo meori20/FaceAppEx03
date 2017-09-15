@@ -1,0 +1,7 @@
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_Logic\bin\Debug\Ex01_Logic.dll
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_Logic\bin\Debug\Ex01_Logic.pdb
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_Logic\bin\Debug\Facebook.dll
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_Logic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_Logic\obj\Debug\Ex01_Logic.csprojResolveAssemblyReference.cache
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_Logic\obj\Debug\Ex01_Logic.dll
+C:\Users\Ori\Desktop\C17 Ex02 OriMetcz 305766594 ShaharHorn 305322851\Ex01_Logic\obj\Debug\Ex01_Logic.pdb
